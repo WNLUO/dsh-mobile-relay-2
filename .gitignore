@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Runtime data and local configuration
+.env
+.env.*
+!.env.example
+instances.json
+data/
+plugin-ota/
+
+# Build and OS artifacts
+.DS_Store
